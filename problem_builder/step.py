@@ -146,6 +146,14 @@ class MentoringStepBlock(
         except ImportError:
             pass
 
+        try:
+            from ooyala_player import OoyalaPlayerBlock
+            additional_blocks.append(NestedXBlockSpec(
+                OoyalaPlayerBlock, category='ooyala-player', label=_(u"Ooyala Player")
+            ))
+        except ImportError:
+            pass
+
         return [
             NestedXBlockSpec(AnswerBlock, boilerplate='studio_default'),
             MCQBlock, RatingBlock, MRQBlock, CompletionBlock,
@@ -279,7 +287,7 @@ class MentoringStepBlock(
         for child_id in self.children:
             child = self.runtime.get_block(child_id)
             if hasattr(child, 'student_view_data'):
-                components.append(child.student_view_data(context))
+                components.append({child.category: child.student_view_data(context)})
 
         return {
             'block_id': unicode(self.scope_ids.usage_id),
