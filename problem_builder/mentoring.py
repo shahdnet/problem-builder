@@ -771,7 +771,11 @@ class MentoringBlock(
         for child_id in self.children:
             block = self.runtime.get_block(child_id)
             if hasattr(block, 'student_view_data'):
-                components.append({block.category: block.student_view_data()})
+                components.append({
+                    'category': block.category,
+                    'student_view_data': block.student_view_data(),
+                })
+
         return {
             'block_id': unicode(self.scope_ids.usage_id),
             'display_name': self.display_name,
@@ -1120,7 +1124,10 @@ class MentoringWithExplicitStepsBlock(BaseMentoringBlock, StudioContainerWithNes
         for child_id in self.children:
             child = self.runtime.get_block(child_id)
             if hasattr(child, 'student_view_data'):
-                components.append({child.category: child.student_view_data(context)})
+                components.append({
+                    'category': child.category,
+                    'student_view_data': child.student_view_data(context),
+                })
 
         return {
             'title': self.display_name,

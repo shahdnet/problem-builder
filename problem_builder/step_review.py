@@ -313,7 +313,10 @@ class ReviewStepBlock(
                 if hasattr(context, 'score_summary') and hasattr(child, 'is_applicable'):
                     if not child.is_applicable(context):
                         continue
-                components.append({child.category: child.student_view_data(context)})
+                components.append({
+                    'category': child.category,
+                    'student_view_data': child.student_view_data(context),
+                })
 
         return {
             'block_id': unicode(self.scope_ids.usage_id),

@@ -106,7 +106,8 @@ class TestMentoringBlock(BlockWithChildrenTestMixin, unittest.TestCase):
             'extended_feedback': step_builder_data['extended_feedback'],
             'components': [
                 {
-                    'test': {
+                    'category': 'test', 
+                    'student_view_data': {
                         'block_id': u'2',
                         'type': 'sb-step',
                         'display_name': step_data['display_name'],
@@ -114,27 +115,31 @@ class TestMentoringBlock(BlockWithChildrenTestMixin, unittest.TestCase):
                         'show_title': step_data['show_title'],
                         'next_button_label': step_data['next_button_label'],
                         'message': step_data['message'],
-                        'components': [
-                            {'test': 'child_a_json'}
-                        ],
+                        'components': [{
+                            'category': 'test', 
+                            'student_view_data': 'child_a_json'
+                        }],
                     }
                 },
                 {
-                    'test': {
+                    'category': 'test',
+                    'student_view_data': {
                         'block_id': u'3',
                         'type': 'sb-review-step',
                         'display_name': review_step_data['display_name'],
                         'title': review_step_data['display_name'],
                         'components': [
                             {
-                                'test': {
+                                'category': 'test',
+                                'student_view_data': {
                                     'block_id': u'4',
                                     'display_name': "Score Summary",
                                     'type': 'sb-review-score',
                                 }
                             },
                             {
-                                'test': {
+                                'category': 'test',
+                                'student_view_data': {
                                     'block_id': u'5',
                                     'display_name': "Conditional Message",
                                     'type': 'sb-conditional-message',

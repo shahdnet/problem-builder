@@ -287,7 +287,10 @@ class MentoringStepBlock(
         for child_id in self.children:
             child = self.runtime.get_block(child_id)
             if hasattr(child, 'student_view_data'):
-                components.append({child.category: child.student_view_data(context)})
+                components.append({
+                    'category': child.category,
+                    'student_view_data': child.student_view_data(context),
+                })
 
         return {
             'block_id': unicode(self.scope_ids.usage_id),

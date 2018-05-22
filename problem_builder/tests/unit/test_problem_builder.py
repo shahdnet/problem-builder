@@ -163,9 +163,10 @@ class TestMentoringBlock(BlockWithChildrenTestMixin, unittest.TestCase):
         expected = {
             'block_id': '1',
             'display_name': display_name,
-            'components': [
-                {'text': 'child_a_json'},
-            ],
+            'components': [{
+                'category': 'text',
+                'student_view_data': 'child_a_json'
+            }],
             'messages': {
                 'completed': None,
                 'incomplete': None,
