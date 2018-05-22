@@ -106,50 +106,35 @@ class TestMentoringBlock(BlockWithChildrenTestMixin, unittest.TestCase):
             'extended_feedback': step_builder_data['extended_feedback'],
             'components': [
                 {
-                    'category': 'test', 
-                    'student_view_data': {
-                        'block_id': u'2',
-                        'type': 'sb-step',
-                        'display_name': step_data['display_name'],
-                        'title': step_data['display_name'],
-                        'show_title': step_data['show_title'],
-                        'next_button_label': step_data['next_button_label'],
-                        'message': step_data['message'],
-                        'components': [{
-                            'category': 'test', 
-                            'student_view_data': 'child_a_json'
-                        }],
-                    }
+                    'block_id': u'2',
+                    'type': 'sb-step',
+                    'display_name': step_data['display_name'],
+                    'title': step_data['display_name'],
+                    'show_title': step_data['show_title'],
+                    'next_button_label': step_data['next_button_label'],
+                    'message': step_data['message'],
+                    'components': ['child_a_json'],
                 },
                 {
-                    'category': 'test',
-                    'student_view_data': {
-                        'block_id': u'3',
-                        'type': 'sb-review-step',
-                        'display_name': review_step_data['display_name'],
-                        'title': review_step_data['display_name'],
-                        'components': [
-                            {
-                                'category': 'test',
-                                'student_view_data': {
-                                    'block_id': u'4',
-                                    'display_name': "Score Summary",
-                                    'type': 'sb-review-score',
-                                }
-                            },
-                            {
-                                'category': 'test',
-                                'student_view_data': {
-                                    'block_id': u'5',
-                                    'display_name': "Conditional Message",
-                                    'type': 'sb-conditional-message',
-                                    'content': conditional_message_data['content'],
-                                    'score_condition': conditional_message_data['score_condition'],
-                                    'num_attempts_condition': conditional_message_data['num_attempts_condition'],
-                                }
-                            },
-                        ],
-                    }
+                    'block_id': u'3',
+                    'type': 'sb-review-step',
+                    'display_name': review_step_data['display_name'],
+                    'title': review_step_data['display_name'],
+                    'components': [
+                        {
+                            'block_id': u'4',
+                            'display_name': "Score Summary",
+                            'type': 'sb-review-score',
+                        },
+                        {
+                            'block_id': u'5',
+                            'display_name': "Conditional Message",
+                            'type': 'sb-conditional-message',
+                            'content': conditional_message_data['content'],
+                            'score_condition': conditional_message_data['score_condition'],
+                            'num_attempts_condition': conditional_message_data['num_attempts_condition'],
+                        },
+                    ],
                 },
             ],
         }
