@@ -370,7 +370,6 @@ class MentoringBlock(
         except ImportError:
             pass
 
-
         message_block_shims = [
             NestedXBlockSpec(
                 MentoringMessageBlock,
