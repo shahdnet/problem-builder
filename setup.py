@@ -85,5 +85,5 @@ setup(
     entry_points={
         'xblock.v1': BLOCKS,
     },
-    package_data=package_data("problem_builder", ["templates", "public", "migrations"]),
+    package_data=package_data("problem_builder", ["templates", "public", "migrations", "locale"]),
 )

@@ -1,0 +1,63 @@
+# Translations template for PROJECT.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-06-23 11:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: problem_builder/templates/html/mentoring_attempts.underscore
+msgid "You have used {num_used} of 1 submission."
+msgid_plural "You have used {num_used} of {max_attempts} submissions."
+msgstr[0] "Ýöü hävé üséd {num_used} öf 1 süßmïssïön. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєт#"
+msgstr[1] ""
+"Ýöü hävé üséd {num_used} öf {max_attempts} süßmïssïöns. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυ#"
+
+#: problem_builder/templates/html/mentoring_grade.underscore
+msgid "Note: you have used all attempts. Continue to the next unit."
+msgstr ""
+"Nöté: ýöü hävé üséd äll ättémpts. Çöntïnüé tö thé néxt ünït. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє"
+"¢тєтυя α#"
+
+#: problem_builder/templates/html/mentoring_grade.underscore
+msgid "Note: if you retake this assessment, only your final score counts."
+msgstr ""
+"Nöté: ïf ýöü rétäké thïs ässéssmént, önlý ýöür fïnäl sçöré çöünts. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя #"
+
+#: problem_builder/templates/html/mentoring_grade.underscore
+msgid "You scored {percent}&#37; on this assessment."
+msgstr "Ýöü sçöréd {percent}&#37; ön thïs ässéssmént. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυ#"
+
+#: problem_builder/templates/html/mentoring_grade.underscore
+msgid "You answered 1 question correctly."
+msgid_plural "You answered {number_correct} questions correctly."
+msgstr[0] "Ýöü änswéréd 1 qüéstïön çörréçtlý. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєт#"
+msgstr[1] ""
+"Ýöü änswéréd {number_correct} qüéstïöns çörréçtlý. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυ#"
+
+#: problem_builder/templates/html/mentoring_grade.underscore
+msgid "You answered 1 question partially correctly."
+msgid_plural "You answered {number_partially_correct} questions partially correctly."
+msgstr[0] "Ýöü änswéréd 1 qüéstïön pärtïällý çörréçtlý. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя #"
+msgstr[1] ""
+"Ýöü änswéréd {number_partially_correct} qüéstïöns pärtïällý çörréçtlý. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт "
+"αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/templates/html/mentoring_grade.underscore
+msgid "You answered 1 question incorrectly."
+msgid_plural "You answered {number_incorrect} questions incorrectly."
+msgstr[0] "Ýöü änswéréd 1 qüéstïön ïnçörréçtlý. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυ#"
+msgstr[1] ""
+"Ýöü änswéréd {number_incorrect} qüéstïöns ïnçörréçtlý. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя#"

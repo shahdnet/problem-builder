@@ -1,0 +1,784 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-23 11:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: problem_builder/answer.py problem_builder/questionnaire.py
+msgid "Question ID (name)"
+msgstr "ضعثسفهخر هي (رشوث)"
+
+#: problem_builder/answer.py
+msgid ""
+"The ID of this block. Should be unique unless you want the answer to be used in multiple places."
+msgstr ""
+"فاث هي خب فاهس زمخذن. ساخعمي زث عرهضعث عرمثسس غخع صشرف فاث شرسصثق فخ زث عسثي هر وعمفهحمث حمشذثس."
+
+#: problem_builder/answer.py
+msgid "Default From"
+msgstr "يثبشعمف بقخو"
+
+#: problem_builder/answer.py
+msgid "If a question ID is specified, get the default value from this answer."
+msgstr "هب ش ضعثسفهخر هي هس سحثذهبهثي, لثف فاث يثبشعمف دشمعث بقخو فاهس شرسصثق."
+
+#: problem_builder/answer.py
+msgid "Min. Allowed Characters"
+msgstr "وهر. شممخصثي ذاشقشذفثقس"
+
+#: problem_builder/answer.py
+msgid "Minimum number of characters allowed for the answer"
+msgstr "وهرهوعو رعوزثق خب ذاشقشذفثقس شممخصثي بخق فاث شرسصثق"
+
+#: problem_builder/answer.py problem_builder/questionnaire.py problem_builder/step.py
+msgid "Question"
+msgstr "ضعثسفهخر"
+
+#: problem_builder/answer.py problem_builder/questionnaire.py
+msgid "Question to ask the student"
+msgstr "ضعثسفهخر فخ شسن فاث سفعيثرف"
+
+#: problem_builder/answer.py problem_builder/mentoring.py problem_builder/questionnaire.py
+msgid "Weight"
+msgstr "صثهلاف"
+
+#: problem_builder/answer.py
+msgid "Defines the maximum total grade of the answer block."
+msgstr "يثبهرثس فاث وشطهوعو فخفشم لقشيث خب فاث شرسصثق زمخذن."
+
+#: problem_builder/answer.py
+msgid "Question ID"
+msgstr "ضعثسفهخر هي"
+
+#: problem_builder/answer.py
+msgid "The ID of the question for which to display the student's answer."
+msgstr "فاث هي خب فاث ضعثسفهخر بخق صاهذا فخ يهسحمشغ فاث سفعيثرف'س شرسصثق."
+
+#: problem_builder/answer.py
+msgid "Title"
+msgstr "فهفمث"
+
+#: problem_builder/answer.py
+msgid "Title of this answer recap section"
+msgstr "فهفمث خب فاهس شرسصثق قثذشح سثذفهخر"
+
+#: problem_builder/answer.py
+msgid "Description"
+msgstr "يثسذقهحفهخر"
+
+#: problem_builder/answer.py
+msgid "Description of this answer (optional). Can include HTML."
+msgstr "يثسذقهحفهخر خب فاهس شرسصثق (خحفهخرشم). ذشر هرذمعيث افوم."
+
+#: problem_builder/choice.py
+msgid "Value"
+msgstr "دشمعث"
+
+#: problem_builder/choice.py
+msgid "Value of the choice when selected. Should be unique. Generally you do not need to edit this."
+msgstr "دشمعث خب فاث ذاخهذث صاثر سثمثذفثي. ساخعمي زث عرهضعث. لثرثقشممغ غخع يخ رخف رثثي فخ ثيهف فاهس."
+
+#: problem_builder/choice.py
+msgid "Choice Text"
+msgstr "ذاخهذث فثطف"
+
+#: problem_builder/choice.py
+msgid "Human-readable version of the choice value"
+msgstr "اعوشر-قثشيشزمث دثقسهخر خب فاث ذاخهذث دشمعث"
+
+#: problem_builder/choice.py
+msgid "Out of Context"
+msgstr "خعف خب ذخرفثطف"
+
+#: problem_builder/choice.py
+msgid "Choice ({status})"
+msgstr "ذاخهذث ({status})"
+
+#: problem_builder/choice.py
+msgid "No value set. This choice will not work correctly."
+msgstr "رخ دشمعث سثف. فاهس ذاخهذث صهمم رخف صخقن ذخققثذفمغ."
+
+#: problem_builder/choice.py
+msgid "No choice text set yet."
+msgstr "رخ ذاخهذث فثطف سثف غثف."
+
+#: problem_builder/choice.py
+msgid ""
+"This choice has a non-unique ID and won't work properly. This can happen if you duplicate a choice "
+"rather than use the Add Choice button."
+msgstr ""
+"فاهس ذاخهذث اشس ش رخر-عرهضعث هي شري صخر'ف صخقن حقخحثقمغ. فاهس ذشر اشححثر هب غخع يعحمهذشفث ش ذاخهذث "
+"قشفاثق فاشر عسث فاث شيي ذاخهذث زعففخر."
+
+#: problem_builder/dashboard.py problem_builder/table.py
+msgid "Display Name"
+msgstr "يهسحمشغ رشوث"
+
+#: problem_builder/dashboard.py
+msgid "Display name for this module"
+msgstr "يهسحمشغ رشوث بخق فاهس وخيعمث"
+
+#: problem_builder/dashboard.py
+msgid "Self-Assessment Summary"
+msgstr "سثمب-شسسثسسوثرف سعووشقغ"
+
+#: problem_builder/dashboard.py
+msgid "Mentoring Blocks"
+msgstr "وثرفخقهرل زمخذنس"
+
+#: problem_builder/dashboard.py
+msgid ""
+"This should be an ordered list of the url_names of each mentoring block whose multiple choice "
+"question values are to be shown on this dashboard. The list should be in JSON format. Example: "
+"{example_here}"
+msgstr ""
+"فاهس ساخعمي زث شر خقيثقثي مهسف خب فاث عقم_رشوثس خب ثشذا وثرفخقهرل زمخذن صاخسث وعمفهحمث ذاخهذث "
+"ضعثسفهخر دشمعثس شقث فخ زث ساخصر خر فاهس يشسازخشقي. فاث مهسف ساخعمي زث هر تسخر بخقوشف. ثطشوحمث: "
+"{example_here}"
+
+#: problem_builder/dashboard.py
+msgid "Questions to be hidden"
+msgstr "ضعثسفهخرس فخ زث اهييثر"
+
+#: problem_builder/dashboard.py
+msgid ""
+"Optional rules to exclude specific questions both from displaying in dashboard and from the "
+"calculated average. Rules must start with the url_name of a mentoring block, followed by list of "
+"question numbers to exclude. Rule set must be in JSON format. Question numbers are one-based (the "
+"first question being number 1). Must be in JSON format. Examples: {examples_here}"
+msgstr ""
+"خحفهخرشم قعمثس فخ ثطذمعيث سحثذهبهذ ضعثسفهخرس زخفا بقخو يهسحمشغهرل هر يشسازخشقي شري بقخو فاث "
+"ذشمذعمشفثي شدثقشلث. قعمثس وعسف سفشقف صهفا فاث عقم_رشوث خب ش وثرفخقهرل زمخذن, بخممخصثي زغ مهسف خب "
+"ضعثسفهخر رعوزثقس فخ ثطذمعيث. قعمث سثف وعسف زث هر تسخر بخقوشف. ضعثسفهخر رعوزثقس شقث خرث-زشسثي (فاث "
+"بهقسف ضعثسفهخر زثهرل رعوزثق 1). وعسف زث هر تسخر بخقوشف. ثطشوحمثس: {examples_here}"
+
+#: problem_builder/dashboard.py
+msgid "Color Coding Rules"
+msgstr "ذخمخق ذخيهرل قعمثس"
+
+#: problem_builder/dashboard.py
+msgid ""
+"Optional rules to assign colors to possible answer values and average values. One rule per line. "
+"First matching rule will be used. Light colors are recommended. Examples: {examples_here}"
+msgstr ""
+"خحفهخرشم قعمثس فخ شسسهلر ذخمخقس فخ حخسسهزمث شرسصثق دشمعثس شري شدثقشلث دشمعثس. خرث قعمث حثق مهرث. "
+"بهقسف وشفذاهرل قعمث صهمم زث عسثي. مهلاف ذخمخقس شقث قثذخووثريثي. ثطشوحمثس: {examples_here}"
+
+#: problem_builder/dashboard.py
+msgid "Visual Representation"
+msgstr "دهسعشم قثحقثسثرفشفهخر"
+
+#: problem_builder/dashboard.py
+msgid "Optional: Enter the JSON configuration of the visual representation desired (Advanced)."
+msgstr "خحفهخرشم: ثرفثق فاث تسخر ذخربهلعقشفهخر خب فاث دهسعشم قثحقثسثرفشفهخر يثسهقثي (شيدشرذثي)."
+
+#: problem_builder/dashboard.py
+msgid "Visual Representation Title"
+msgstr "دهسعشم قثحقثسثرفشفهخر فهفمث"
+
+#: problem_builder/dashboard.py
+msgid ""
+"This text is not displayed visually but is exposed to screen reader users who may not see the "
+"image."
+msgstr ""
+"فاهس فثطف هس رخف يهسحمشغثي دهسعشممغ زعف هس ثطحخسثي فخ سذقثثر قثشيثق عسثقس صاخ وشغ رخف سثث فاث "
+"هوشلث."
+
+#: problem_builder/dashboard.py
+msgid "Visual Repr. Description"
+msgstr "دهسعشم قثحق. يثسذقهحفهخر"
+
+#: problem_builder/dashboard.py
+msgid "The data represented in this image is available in the tables below."
+msgstr "فاث يشفش قثحقثسثرفثي هر فاهس هوشلث هس شدشهمشزمث هر فاث فشزمثس زثمخص."
+
+#: problem_builder/dashboard.py
+msgid ""
+"This longer description is not displayed visually but is exposed to screen reader users who may "
+"not see the image."
+msgstr ""
+"فاهس مخرلثق يثسذقهحفهخر هس رخف يهسحمشغثي دهسعشممغ زعف هس ثطحخسثي فخ سذقثثر قثشيثق عسثقس صاخ وشغ "
+"رخف سثث فاث هوشلث."
+
+#: problem_builder/dashboard.py
+msgid "Label for average value"
+msgstr "مشزثم بخق شدثقشلث دشمعث"
+
+#: problem_builder/dashboard.py
+msgid ""
+"This settings allows overriding label for the calculated average per mentoring block. Must be in "
+"JSON format. Examples: {examples_here}."
+msgstr ""
+"فاهس سثففهرلس شممخصس خدثققهيهرل مشزثم بخق فاث ذشمذعمشفثي شدثقشلث حثق وثرفخقهرل زمخذن. وعسف زث هر "
+"تسخر بخقوشف. ثطشوحمثس: {examples_here}."
+
+#: problem_builder/dashboard.py
+msgid "Display values"
+msgstr "يهسحمشغ دشمعثس"
+
+#: problem_builder/dashboard.py
+msgid "Toggles if numeric values are displayed"
+msgstr "فخللمثس هب رعوثقهذ دشمعثس شقث يهسحمشغثي"
+
+#: problem_builder/dashboard.py
+msgid "Header HTML"
+msgstr "اثشيثق افوم"
+
+#: problem_builder/dashboard.py
+msgid "Custom text to include at the beginning of the report."
+msgstr "ذعسفخو فثطف فخ هرذمعيث شف فاث زثلهررهرل خب فاث قثحخقف."
+
+#: problem_builder/dashboard.py
+msgid "Footer HTML"
+msgstr "بخخفثق افوم"
+
+#: problem_builder/dashboard.py
+msgid "Custom text to include at the end of the report."
+msgstr "ذعسفخو فثطف فخ هرذمعيث شف فاث ثري خب فاث قثحخقف."
+
+#: problem_builder/dashboard.py
+msgid "Invalid color rule on line {line_number}"
+msgstr "هردشمهي ذخمخق قعمث خر مهرث {line_number}"
+
+#: problem_builder/dashboard.py
+msgid "Not configured."
+msgstr "رخف ذخربهلعقثي."
+
+#: problem_builder/dashboard.py
+msgid "Score: {score}"
+msgstr "سذخقث: {score}"
+
+#: problem_builder/dashboard.py
+msgid "No value yet"
+msgstr "رخ دشمعث غثف"
+
+#: problem_builder/dashboard.py
+msgid "Average"
+msgstr "شدثقشلث"
+
+#: problem_builder/dashboard.py
+msgid "Invalid block url_name given: \"{bad_url_name}\""
+msgstr "هردشمهي زمخذن عقم_رشوث لهدثر: \"{bad_url_name}\""
+
+#: problem_builder/dashboard.py
+msgid ""
+"'Questions to be hidden' is malformed: value for key {key} is {value}, expected list of integers"
+msgstr ""
+"'ضعثسفهخرس فخ زث اهييثر' هس وشمبخقوثي: دشمعث بخق نثغ {key} هس {value}, ثطحثذفثي مهسف خب هرفثلثقس"
+
+#: problem_builder/dashboard.py
+msgid ""
+"'Questions to be hidden' is malformed: mentoring url_name {url_name} is not added to Dashboard"
+msgstr ""
+"'ضعثسفهخرس فخ زث اهييثر' هس وشمبخقوثي: وثرفخقهرل عقم_رشوث {url_name} هس رخف شييثي فخ يشسازخشقي"
+
+#: problem_builder/dashboard.py
+msgid "'Label for average value' is malformed: value for key {key} is {value}, expected string"
+msgstr "'مشزثم بخق شدثقشلث دشمعث' هس وشمبخقوثي: دشمعث بخق نثغ {key} هس {value}, ثطحثذفثي سفقهرل"
+
+#: problem_builder/dashboard.py
+msgid ""
+"'Label for average value' is malformed: mentoring url_name {url_name} is not added to Dashboard"
+msgstr ""
+"'مشزثم بخق شدثقشلث دشمعث' هس وشمبخقوثي: وثرفخقهرل عقم_رشوث {url_name} هس رخف شييثي فخ يشسازخشقي"
+
+#: problem_builder/dashboard.py
+msgid "Visual rules contains an error: {error}"
+msgstr "دهسعشم قعمثس ذخرفشهرس شر ثققخق: {error}"
+
+#: problem_builder/dashboard.py
+msgid "Visual rules should be a JSON dictionary/object: {...}"
+msgstr "دهسعشم قعمثس ساخعمي زث ش تسخر يهذفهخرشقغ/خزتثذف: {...}"
+
+#: problem_builder/mcq.py
+msgid "Correct Choice[s]"
+msgstr "ذخققثذف ذاخهذث[س]"
+
+#: problem_builder/mcq.py
+msgid "Specify the value[s] that students may select for this question to be considered correct."
+msgstr "سحثذهبغ فاث دشمعث[س] فاشف سفعيثرفس وشغ سثمثذف بخق فاهس ضعثسفهخر فخ زث ذخرسهيثقثي ذخققثذف."
+
+#. Translators: This is an adjective, describing a choice as correct
+#: problem_builder/mcq.py
+msgid "Correct"
+msgstr "ذخققثذف"
+
+#: problem_builder/mcq.py
+msgid "Acceptable"
+msgstr "شذذثحفشزمث"
+
+#: problem_builder/mcq.py
+msgid "Wrong"
+msgstr "صقخرل"
+
+#: problem_builder/mcq.py problem_builder/mrq.py
+msgid "Not Acceptable"
+msgstr "رخف شذذثحفشزمث"
+
+#: problem_builder/mcq.py
+msgid "You must indicate the correct answer[s], or the student will always get this question wrong."
+msgstr "غخع وعسف هريهذشفث فاث ذخققثذف شرسصثق[س], خق فاث سفعيثرف صهمم شمصشغس لثف فاهس ضعثسفهخر صقخرل."
+
+#: problem_builder/mcq.py
+msgid "Duplicate correct choices set"
+msgstr "يعحمهذشفث ذخققثذف ذاخهذثس سثف"
+
+#: problem_builder/mcq.py
+msgid "A choice value listed as correct does not exist: {choice}"
+msgstr "ش ذاخهذث دشمعث مهسفثي شس ذخققثذف يخثس رخف ثطهسف: {choice}"
+
+#: problem_builder/mcq.py
+msgid "Low"
+msgstr "مخص"
+
+#: problem_builder/mcq.py
+msgid "Label for low ratings"
+msgstr "مشزثم بخق مخص قشفهرلس"
+
+#: problem_builder/mcq.py
+msgid "Less"
+msgstr "مثسس"
+
+#: problem_builder/mcq.py
+msgid "High"
+msgstr "اهلا"
+
+#: problem_builder/mcq.py
+msgid "Label for high ratings"
+msgstr "مشزثم بخق اهلا قشفهرلس"
+
+#: problem_builder/mcq.py
+msgid "More"
+msgstr "وخقث"
+
+#: problem_builder/mcq.py
+msgid "Accepted Choice[s]"
+msgstr "شذذثحفثي ذاخهذث[س]"
+
+#: problem_builder/mcq.py
+msgid ""
+"Specify the rating value[s] that students may select for this question to be considered correct."
+msgstr ""
+"سحثذهبغ فاث قشفهرل دشمعث[س] فاشف سفعيثرفس وشغ سثمثذف بخق فاهس ضعثسفهخر فخ زث ذخرسهيثقثي ذخققثذف."
+
+#: problem_builder/mentoring.py
+msgid "Mode"
+msgstr "وخيث"
+
+#: problem_builder/mentoring.py
+msgid "Mode of the mentoring. 'standard' or 'assessment'"
+msgstr "وخيث خب فاث وثرفخقهرل. 'سفشريشقي' خق 'شسسثسسوثرف'"
+
+#: problem_builder/mentoring.py
+msgid "Followed by"
+msgstr "بخممخصثي زغ"
+
+#: problem_builder/mentoring.py
+msgid "url_name of the step after the current mentoring block in workflow."
+msgstr "عقم_رشوث خب فاث سفثح شبفثق فاث ذعققثرف وثرفخقهرل زمخذن هر صخقنبمخص."
+
+#: problem_builder/mentoring.py
+msgid "Max. Attempts Allowed"
+msgstr "وشط. شففثوحفس شممخصثي"
+
+#: problem_builder/mentoring.py
+msgid "Number of max attempts allowed for this questions"
+msgstr "رعوزثق خب وشط شففثوحفس شممخصثي بخق فاهس ضعثسفهخرس"
+
+#: problem_builder/mentoring.py
+msgid "Enforce Dependency"
+msgstr "ثربخقذث يثحثريثرذغ"
+
+#: problem_builder/mentoring.py
+msgid "Should the next step be the current block to complete?"
+msgstr "ساخعمي فاث رثطف سفثح زث فاث ذعققثرف زمخذن فخ ذخوحمثفث?"
+
+#: problem_builder/mentoring.py
+msgid "Show Submit Button"
+msgstr "ساخص سعزوهف زعففخر"
+
+#: problem_builder/mentoring.py
+msgid "Allow submission of the current block?"
+msgstr "شممخص سعزوهسسهخر خب فاث ذعققثرف زمخذن?"
+
+#: problem_builder/mentoring.py
+msgid "XML content"
+msgstr "طوم ذخرفثرف"
+
+#: problem_builder/mentoring.py
+msgid ""
+"Not used for version 2. This field is here only to preserve the data needed to upgrade from v1 to "
+"v2."
+msgstr ""
+"رخف عسثي بخق دثقسهخر 2. فاهس بهثمي هس اثقث خرمغ فخ حقثسثقدث فاث يشفش رثثيثي فخ عحلقشيث بقخو د1 فخ "
+"د2."
+
+#: problem_builder/mentoring.py
+msgid "Defines the maximum total grade of the block."
+msgstr "يثبهرثس فاث وشطهوعو فخفشم لقشيث خب فاث زمخذن."
+
+#: problem_builder/mentoring.py
+msgid "Title (Display name)"
+msgstr "فهفمث (يهسحمشغ رشوث)"
+
+#: problem_builder/mentoring.py
+msgid "Title to display"
+msgstr "فهفمث فخ يهسحمشغ"
+
+#: problem_builder/mentoring.py
+msgid "Mentoring Questions"
+msgstr "وثرفخقهرل ضعثسفهخرس"
+
+#: problem_builder/mentoring.py
+msgid "Feedback Header"
+msgstr "بثثيزشذن اثشيثق"
+
+#: problem_builder/mentoring.py
+msgid "Header for feedback messages"
+msgstr "اثشيثق بخق بثثيزشذن وثسسشلثس"
+
+#: problem_builder/mentoring.py
+msgid "Feedback"
+msgstr "بثثيزشذن"
+
+#: problem_builder/mentoring.py
+msgid "Error: Unable to load child component."
+msgstr "ثققخق: عرشزمث فخ مخشي ذاهمي ذخوحخرثرف."
+
+#: problem_builder/mentoring.py
+msgid "There should only be one '{msg_type}' message component."
+msgstr "فاثقث ساخعمي خرمغ زث خرث '{msg_type}' وثسسشلث ذخوحخرثرف."
+
+#: problem_builder/mentoring.py
+msgid "A component inside this mentoring block has issues."
+msgstr "ش ذخوحخرثرف هرسهيث فاهس وثرفخقهرل زمخذن اشس هسسعثس."
+
+#: problem_builder/message.py problem_builder/questionnaire.py
+msgid "Message"
+msgstr "وثسسشلث"
+
+#: problem_builder/message.py
+msgid "Message to display upon completion"
+msgstr "وثسسشلث فخ يهسحمشغ عحخر ذخوحمثفهخر"
+
+#: problem_builder/message.py
+msgid "Type of message"
+msgstr "فغحث خب وثسسشلث"
+
+#: problem_builder/message.py
+msgid "Message when student reaches max. # of attempts ({limit})"
+msgstr "وثسسشلث صاثر سفعيثرف قثشذاثس وشط. # خب شففثوحفس ({limit})"
+
+#: problem_builder/message.py
+msgid "unlimited"
+msgstr "عرمهوهفثي"
+
+#: problem_builder/message.py
+msgid "Message shown when complete"
+msgstr "وثسسشلث ساخصر صاثر ذخوحمثفث"
+
+#: problem_builder/message.py
+msgid "Message shown when incomplete"
+msgstr "وثسسشلث ساخصر صاثر هرذخوحمثفث"
+
+#: problem_builder/mrq.py
+msgid "Required Choices"
+msgstr "قثضعهقثي ذاخهذثس"
+
+#: problem_builder/mrq.py
+msgid "Specify the value[s] that students must select for this MRQ to be considered correct."
+msgstr "سحثذهبغ فاث دشمعث[س] فاشف سفعيثرفس وعسف سثمثذف بخق فاهس وقض فخ زث ذخرسهيثقثي ذخققثذف."
+
+#: problem_builder/mrq.py
+msgid "Ignored Choices"
+msgstr "هلرخقثي ذاخهذثس"
+
+#: problem_builder/mrq.py
+msgid ""
+"Specify the value[s] that are neither correct nor incorrect. Any values not listed as required or "
+"ignored will be considered wrong."
+msgstr ""
+"سحثذهبغ فاث دشمعث[س] فاشف شقث رثهفاثق ذخققثذف رخق هرذخققثذف. شرغ دشمعثس رخف مهسفثي شس قثضعهقثي خق "
+"هلرخقثي صهمم زث ذخرسهيثقثي صقخرل."
+
+#: problem_builder/mrq.py
+msgid "Required"
+msgstr "قثضعهقثي"
+
+#: problem_builder/mrq.py
+msgid "Ignored"
+msgstr "هلرخقثي"
+
+#: problem_builder/mrq.py
+msgid "Duplicate required choices set"
+msgstr "يعحمهذشفث قثضعهقثي ذاخهذثس سثف"
+
+#: problem_builder/mrq.py
+msgid "Duplicate ignored choices set"
+msgstr "يعحمهذشفث هلرخقثي ذاخهذثس سثف"
+
+#: problem_builder/mrq.py
+msgid "A choice is listed as both required and ignored: {}"
+msgstr "ش ذاخهذث هس مهسفثي شس زخفا قثضعهقثي شري هلرخقثي: {}"
+
+#: problem_builder/mrq.py
+msgid "A choice value listed as required does not exist: {}"
+msgstr "ش ذاخهذث دشمعث مهسفثي شس قثضعهقثي يخثس رخف ثطهسف: {}"
+
+#: problem_builder/mrq.py
+msgid "A choice value listed as ignored does not exist: {}"
+msgstr "ش ذاخهذث دشمعث مهسفثي شس هلرخقثي يخثس رخف ثطهسف: {}"
+
+#: problem_builder/questionnaire.py
+msgid "The ID of this question (required). Should be unique within this mentoring component."
+msgstr "فاث هي خب فاهس ضعثسفهخر (قثضعهقثي). ساخعمي زث عرهضعث صهفاهر فاهس وثرفخقهرل ذخوحخرثرف."
+
+#: problem_builder/questionnaire.py
+msgid "General feedback provided when submiting"
+msgstr "لثرثقشم بثثيزشذن حقخدهيثي صاثر سعزوهفهرل"
+
+#: problem_builder/questionnaire.py
+msgid "Defines the maximum total grade of this question."
+msgstr "يثبهرثس فاث وشطهوعو فخفشم لقشيث خب فاهس ضعثسفهخر."
+
+#: problem_builder/questionnaire.py
+msgid "A unique Question ID is required."
+msgstr "ش عرهضعث ضعثسفهخر هي هس قثضعهقثي."
+
+#: problem_builder/questionnaire.py
+msgid "Question ID should not contain spaces."
+msgstr "ضعثسفهخر هي ساخعمي رخف ذخرفشهر سحشذثس."
+
+#: problem_builder/questionnaire.py
+msgid "Some choice values are not unique."
+msgstr "سخوث ذاخهذث دشمعثس شقث رخف عرهضعث."
+
+#: problem_builder/questionnaire.py
+msgid "Multiple tips configured for the same choice."
+msgstr "وعمفهحمث فهحس ذخربهلعقثي بخق فاث سشوث ذاخهذث."
+
+#: problem_builder/step.py
+msgid "Question title"
+msgstr "ضعثسفهخر فهفمث"
+
+#: problem_builder/step.py
+msgid "Leave blank to use the default (\"Question 1\", \"Question 2\", etc.)"
+msgstr "مثشدث زمشرن فخ عسث فاث يثبشعمف (\"ضعثسفهخر 1\", \"ضعثسفهخر 2\", ثفذ.)"
+
+#: problem_builder/step.py
+msgid "Show title"
+msgstr "ساخص فهفمث"
+
+#: problem_builder/step.py
+msgid "Display the title?"
+msgstr "يهسحمشغ فاث فهفمث?"
+
+#: problem_builder/step.py
+msgid "Question {number}"
+msgstr "ضعثسفهخر {number}"
+
+#: problem_builder/table.py
+msgid "Display name"
+msgstr "يهسحمشغ رشوث"
+
+#: problem_builder/table.py
+msgid "Title of the table"
+msgstr "فهفمث خب فاث فشزمث"
+
+#: problem_builder/table.py
+msgid "Answers Table"
+msgstr "شرسصثقس فشزمث"
+
+#: problem_builder/table.py
+msgid "Special Mode"
+msgstr "سحثذهشم وخيث"
+
+#: problem_builder/table.py
+msgid "Variant of the table that will display a specific background image."
+msgstr "دشقهشرف خب فاث فشزمث فاشف صهمم يهسحمشغ ش سحثذهبهذ زشذنلقخعري هوشلث."
+
+#: problem_builder/table.py
+msgid "Header"
+msgstr "اثشيثق"
+
+#: problem_builder/table.py
+msgid "Header of this column"
+msgstr "اثشيثق خب فاهس ذخمعور"
+
+#: problem_builder/templates/html/answer_read_only.html
+msgid "No answer yet."
+msgstr "رخ شرسصثق غثف."
+
+#: problem_builder/templates/html/dashboard.html
+msgid "Download report"
+msgstr "يخصرمخشي قثحخقف"
+
+#: problem_builder/templates/html/dashboard_report.html
+msgid "Student"
+msgstr "سفعيثرف"
+
+#: problem_builder/templates/html/dashboard_report.html
+msgid "Course"
+msgstr "ذخعقسث"
+
+#: problem_builder/templates/html/dashboard_report.html
+msgid "Date"
+msgstr "يشفث"
+
+#: problem_builder/templates/html/mentoring-column-add-button.html
+msgid "Add HTML"
+msgstr "شيي افوم"
+
+#: problem_builder/templates/html/mentoring-column-add-button.html
+msgid "Add Answer Recap"
+msgstr "شيي شرسصثق قثذشح"
+
+#: problem_builder/templates/html/mentoring-table-add-button.html
+msgid "Add Answer Recap Column"
+msgstr "شيي شرسصثق قثذشح ذخمعور"
+
+#: problem_builder/templates/html/mentoring.html
+#, python-format
+msgid ""
+"\n"
+"    You need to complete %(link_start)sthe previous step%(link_end)s before\n"
+"    attempting this step.\n"
+"    "
+msgstr ""
+"\n"
+"    غخع رثثي فخ ذخوحمثفث %(link_start)sفاث حقثدهخعس سفثح%(link_end)s زثبخقث\n"
+"    شففثوحفهرل فاهس سفثح.\n"
+"    "
+
+#: problem_builder/templates/html/mentoring.html
+msgid "Submit"
+msgstr "سعزوهف"
+
+#: problem_builder/templates/html/mentoring.html
+msgid "Next Question"
+msgstr "رثطف ضعثسفهخر"
+
+#: problem_builder/templates/html/mentoring.html
+msgid "Review grade"
+msgstr "قثدهثص لقشيث"
+
+#: problem_builder/templates/html/mentoring.html
+msgid "Try again"
+msgstr "فقغ شلشهر"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Add New Component"
+msgstr "شيي رثص ذخوحخرثرف"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Long Answer"
+msgstr "مخرل شرسصثق"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Multiple Choice Question"
+msgstr "وعمفهحمث ذاخهذث ضعثسفهخر"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Rating Question"
+msgstr "قشفهرل ضعثسفهخر"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Multiple Response Question"
+msgstr "وعمفهحمث قثسحخرسث ضعثسفهخر"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "HTML"
+msgstr "افوم"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Long Answer Recap"
+msgstr "مخرل شرسصثق قثذشح"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Answer Recap Table"
+msgstr "شرسصثق قثذشح فشزمث"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Message (Complete)"
+msgstr "وثسسشلث (ذخوحمثفث)"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Message (Incomplete)"
+msgstr "وثسسشلث (هرذخوحمثفث)"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Message (Max # Attempts)"
+msgstr "وثسسشلث (وشط # شففثوحفس)"
+
+#: problem_builder/templates/html/mentoring_url_name.html
+msgid "url_name for linking to this mentoring question set:"
+msgstr "عقم_رشوث بخق مهرنهرل فخ فاهس وثرفخقهرل ضعثسفهخر سثف:"
+
+#: problem_builder/templates/html/questionnaire_add_buttons.html
+msgid "Add Custom Choice"
+msgstr "شيي ذعسفخو ذاخهذث"
+
+#: problem_builder/templates/html/questionnaire_add_buttons.html
+msgid "Add Tip"
+msgstr "شيي فهح"
+
+#: problem_builder/templates/html/ratingblock_edit_preview.html
+msgid "Built-in choices:"
+msgstr "زعهمف-هر ذاخهذثس:"
+
+#: problem_builder/templates/html/ratingblock_edit_preview.html
+msgid "Additional custom choices and tips:"
+msgstr "شييهفهخرشم ذعسفخو ذاخهذثس شري فهحس:"
+
+#: problem_builder/tip.py
+msgid "Content"
+msgstr "ذخرفثرف"
+
+#: problem_builder/tip.py
+msgid "Text of the tip to show if the student chooses this tip's associated choice[s]"
+msgstr "فثطف خب فاث فهح فخ ساخص هب فاث سفعيثرف ذاخخسثس فاهس فهح'س شسسخذهشفثي ذاخهذث[س]"
+
+#: problem_builder/tip.py
+msgid "For Choices"
+msgstr "بخق ذاخهذثس"
+
+#: problem_builder/tip.py
+msgid "List of choices for which to display this tip"
+msgstr "مهسف خب ذاخهذثس بخق صاهذا فخ يهسحمشغ فاهس فهح"
+
+#: problem_builder/tip.py
+msgid "Width"
+msgstr "صهيفا"
+
+#: problem_builder/tip.py
+msgid "Width of the tip popup (e.g. '400px')"
+msgstr "صهيفا خب فاث فهح حخحعح (ث.ل. '400حط')"
+
+#: problem_builder/tip.py
+msgid "Height"
+msgstr "اثهلاف"
+
+#: problem_builder/tip.py
+msgid "Height of the tip popup (e.g. '200px')"
+msgstr "اثهلاف خب فاث فهح حخحعح (ث.ل. '200حط')"
+
+#: problem_builder/tip.py
+msgid "Tip for {list_of_choices}"
+msgstr "فهح بخق {list_of_choices}"
+
+#: problem_builder/tip.py
+msgid "A choice selected for this tip does not exist."
+msgstr "ش ذاخهذث سثمثذفثي بخق فاهس فهح يخثس رخف ثطهسف."

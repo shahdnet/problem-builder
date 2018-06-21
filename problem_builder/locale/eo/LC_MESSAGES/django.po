@@ -1,0 +1,852 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-06-23 11:02+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: problem_builder/answer.py problem_builder/questionnaire.py
+msgid "Question ID (name)"
+msgstr "Qüéstïön ÌD (nämé) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: problem_builder/answer.py
+msgid ""
+"The ID of this block. Should be unique unless you want the answer to be used in multiple places."
+msgstr ""
+"Thé ÌD öf thïs ßlöçk. Shöüld ßé ünïqüé ünléss ýöü wänt thé änswér tö ßé üséd ïn mültïplé pläçés. "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: problem_builder/answer.py
+msgid "Default From"
+msgstr "Défäült Fröm Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: problem_builder/answer.py
+msgid "If a question ID is specified, get the default value from this answer."
+msgstr ""
+"Ìf ä qüéstïön ÌD ïs spéçïfïéd, gét thé défäült välüé fröm thïs änswér. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт "
+"αмєт, ¢σηѕє¢тєтυя #"
+
+#: problem_builder/answer.py
+msgid "Min. Allowed Characters"
+msgstr "Mïn. Àllöwéd Çhäräçtérs Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σ#"
+
+#: problem_builder/answer.py
+msgid "Minimum number of characters allowed for the answer"
+msgstr ""
+"Mïnïmüm nümßér öf çhäräçtérs ällöwéd för thé änswér Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/answer.py problem_builder/questionnaire.py problem_builder/step.py
+msgid "Question"
+msgstr "Qüéstïön Ⱡ'σяєм ιρѕυм ∂#"
+
+#: problem_builder/answer.py problem_builder/questionnaire.py
+msgid "Question to ask the student"
+msgstr "Qüéstïön tö äsk thé stüdént Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє#"
+
+#: problem_builder/answer.py problem_builder/mentoring.py problem_builder/questionnaire.py
+msgid "Weight"
+msgstr "Wéïght Ⱡ'σяєм ιρѕυ#"
+
+#: problem_builder/answer.py
+msgid "Defines the maximum total grade of the answer block."
+msgstr ""
+"Défïnés thé mäxïmüm tötäl grädé öf thé änswér ßlöçk. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/answer.py
+msgid "Question ID"
+msgstr "Qüéstïön ÌD Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: problem_builder/answer.py
+msgid "The ID of the question for which to display the student's answer."
+msgstr ""
+"Thé ÌD öf thé qüéstïön för whïçh tö dïspläý thé stüdént's änswér. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя α#"
+
+#: problem_builder/answer.py
+msgid "Title"
+msgstr "Tïtlé Ⱡ'σяєм ιρѕ#"
+
+#: problem_builder/answer.py
+msgid "Title of this answer recap section"
+msgstr "Tïtlé öf thïs änswér réçäp séçtïön Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєт#"
+
+#: problem_builder/answer.py
+msgid "Description"
+msgstr "Désçrïptïön Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: problem_builder/answer.py
+msgid "Description of this answer (optional). Can include HTML."
+msgstr ""
+"Désçrïptïön öf thïs änswér (öptïönäl). Çän ïnçlüdé HTML. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя "
+"α#"
+
+#: problem_builder/choice.py
+msgid "Value"
+msgstr "Välüé Ⱡ'σяєм ιρѕ#"
+
+#: problem_builder/choice.py
+msgid "Value of the choice when selected. Should be unique. Generally you do not need to edit this."
+msgstr ""
+"Välüé öf thé çhöïçé whén séléçtéd. Shöüld ßé ünïqüé. Générällý ýöü dö nöt nééd tö édït thïs. "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢ση#"
+
+#: problem_builder/choice.py
+msgid "Choice Text"
+msgstr "Çhöïçé Téxt Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: problem_builder/choice.py
+msgid "Human-readable version of the choice value"
+msgstr "Hümän-réädäßlé vérsïön öf thé çhöïçé välüé Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя #"
+
+#: problem_builder/choice.py
+msgid "Out of Context"
+msgstr "Öüt öf Çöntéxt Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт#"
+
+#: problem_builder/choice.py
+msgid "Choice ({status})"
+msgstr "Çhöïçé ({status}) Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: problem_builder/choice.py
+msgid "No value set. This choice will not work correctly."
+msgstr ""
+"Nö välüé sét. Thïs çhöïçé wïll nöt wörk çörréçtlý. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/choice.py
+msgid "No choice text set yet."
+msgstr "Nö çhöïçé téxt sét ýét. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σ#"
+
+#: problem_builder/choice.py
+msgid ""
+"This choice has a non-unique ID and won't work properly. This can happen if you duplicate a choice "
+"rather than use the Add Choice button."
+msgstr ""
+"Thïs çhöïçé häs ä nön-ünïqüé ÌD änd wön't wörk pröpérlý. Thïs çän häppén ïf ýöü düplïçäté ä çhöïçé "
+"räthér thän üsé thé Àdd Çhöïçé ßüttön. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α∂ιριѕι¢ιηg єłιт, "
+"ѕє∂ ∂σ єιυѕмσ∂ тємρσя ιη¢ι∂ι∂υηт υт łαвσяє єт ∂σłσяє мαgηα αłιqυα. υт єηιм α∂ мιηιм νєηιαм, qυιѕ "
+"ησѕтяυ∂ єχєя¢ιтαтιση υłłαм¢σ łαвσяιѕ ηιѕι υт αłιqυιρ єχ єα ¢σммσ∂σ ¢σηѕєqυαт. ∂υιѕ αυтє ιяυяє "
+"∂σłσя ιη яєρяєнєη∂єяιт ιη νσłυρтαтє νєłιт єѕѕє ¢ιłłυм ∂σłσяє єυ ƒυgιαт ηυłłα ραяιαтυя. єχ¢єρтєυя "
+"ѕιηт σ¢¢αє¢αт ¢υρι∂αтαт ηση ρяσι∂єηт, ѕυηт ιη ¢υłρα qυι σƒƒι¢ια ∂єѕєяυηт мσłłιт αηιм ι∂ єѕт łαвσ#"
+
+#: problem_builder/dashboard.py problem_builder/table.py
+msgid "Display Name"
+msgstr "Dïspläý Nämé Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: problem_builder/dashboard.py
+msgid "Display name for this module"
+msgstr "Dïspläý nämé för thïs mödülé Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: problem_builder/dashboard.py
+msgid "Self-Assessment Summary"
+msgstr "Sélf-Àsséssmént Sümmärý Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σ#"
+
+#: problem_builder/dashboard.py
+msgid "Mentoring Blocks"
+msgstr "Méntörïng Blöçks Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αм#"
+
+#: problem_builder/dashboard.py
+msgid ""
+"This should be an ordered list of the url_names of each mentoring block whose multiple choice "
+"question values are to be shown on this dashboard. The list should be in JSON format. Example: "
+"{example_here}"
+msgstr ""
+"Thïs shöüld ßé än ördéréd lïst öf thé ürl_nämés öf éäçh méntörïng ßlöçk whösé mültïplé çhöïçé "
+"qüéstïön välüés äré tö ßé shöwn ön thïs däshßöärd. Thé lïst shöüld ßé ïn JSÖN förmät. Éxämplé: "
+"{example_here} Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α∂ιριѕι¢ιηg єłιт, ѕє∂ ∂σ єιυѕмσ∂ тємρσя ιη"
+"¢ι∂ι∂υηт υт łαвσяє єт ∂σłσяє мαgηα αłιqυα. υт єηιм α∂ мιηιм νєηιαм, qυιѕ ησѕтяυ∂ єχєя¢ιтαтιση υłłαм"
+"¢σ łαвσяιѕ ηιѕι υт αłιqυιρ єχ єα ¢σммσ∂σ ¢σηѕєqυαт. ∂υιѕ αυтє ιяυяє ∂σłσя ιη яєρяєнєη∂єяιт ιη "
+"νσłυρтαтє νєłιт єѕѕє ¢ιłłυм ∂σłσяє єυ ƒυgιαт ηυłłα ραяιαтυя. єχ¢єρтєυя ѕιηт σ¢¢αє¢αт ¢υρι∂αтαт ησ#"
+
+#: problem_builder/dashboard.py
+msgid "Questions to be hidden"
+msgstr "Qüéstïöns tö ßé hïddén Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢#"
+
+#: problem_builder/dashboard.py
+msgid ""
+"Optional rules to exclude specific questions both from displaying in dashboard and from the "
+"calculated average. Rules must start with the url_name of a mentoring block, followed by list of "
+"question numbers to exclude. Rule set must be in JSON format. Question numbers are one-based (the "
+"first question being number 1). Must be in JSON format. Examples: {examples_here}"
+msgstr ""
+"Öptïönäl rülés tö éxçlüdé spéçïfïç qüéstïöns ßöth fröm dïspläýïng ïn däshßöärd änd fröm thé "
+"çälçülätéd ävérägé. Rülés müst stärt wïth thé ürl_nämé öf ä méntörïng ßlöçk, föllöwéd ßý lïst öf "
+"qüéstïön nümßérs tö éxçlüdé. Rülé sét müst ßé ïn JSÖN förmät. Qüéstïön nümßérs äré öné-ßäséd (thé "
+"fïrst qüéstïön ßéïng nümßér 1). Müst ßé ïn JSÖN förmät. Éxämplés: {examples_here} Ⱡ'σяєм ιρѕυм "
+"∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α∂#"
+
+#: problem_builder/dashboard.py
+msgid "Color Coding Rules"
+msgstr "Çölör Çödïng Rülés Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: problem_builder/dashboard.py
+msgid ""
+"Optional rules to assign colors to possible answer values and average values. One rule per line. "
+"First matching rule will be used. Light colors are recommended. Examples: {examples_here}"
+msgstr ""
+"Öptïönäl rülés tö ässïgn çölörs tö pössïßlé änswér välüés änd ävérägé välüés. Öné rülé pér lïné. "
+"Fïrst mätçhïng rülé wïll ßé üséd. Lïght çölörs äré réçömméndéd. Éxämplés: {examples_here} Ⱡ'σяєм "
+"ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α∂ιριѕι¢ιηg єłιт, ѕє∂ ∂σ єιυѕмσ∂ тємρσя ιη¢ι∂ι∂υηт υт łαвσяє єт "
+"∂σłσяє мαgηα αłιqυα. υт єηιм α∂ мιηιм νєηιαм, qυιѕ ησѕтяυ∂ єχєя¢ιтαтιση υłłαм¢σ łαвσяιѕ ηιѕι υт "
+"αłιqυιρ єχ єα ¢σммσ∂σ ¢σηѕєqυαт. ∂υιѕ αυтє ιяυяє ∂σłσя ιη яєρяєнєη∂єяιт ιη νσłυρтαтє νєłιт єѕѕє "
+"¢ιłłυм ∂σłσяє єυ ƒυgιαт ηυłłα ραяιαтυя. єχ¢єρтєυя ѕιηт σ¢¢αє¢αт ¢υρι∂αтαт ηση ρяσι∂єηт, ѕυηт ιη "
+"¢υłρα#"
+
+#: problem_builder/dashboard.py
+msgid "Visual Representation"
+msgstr "Vïsüäl Répréséntätïön Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: problem_builder/dashboard.py
+msgid "Optional: Enter the JSON configuration of the visual representation desired (Advanced)."
+msgstr ""
+"Öptïönäl: Éntér thé JSÖN çönfïgürätïön öf thé vïsüäl répréséntätïön désïréd (Àdvänçéd). Ⱡ'σяєм "
+"ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє#"
+
+#: problem_builder/dashboard.py
+msgid "Visual Representation Title"
+msgstr "Vïsüäl Répréséntätïön Tïtlé Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє#"
+
+#: problem_builder/dashboard.py
+msgid ""
+"This text is not displayed visually but is exposed to screen reader users who may not see the "
+"image."
+msgstr ""
+"Thïs téxt ïs nöt dïspläýéd vïsüällý ßüt ïs éxpöséd tö sçréén réädér üsérs whö mäý nöt séé thé "
+"ïmägé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: problem_builder/dashboard.py
+msgid "Visual Repr. Description"
+msgstr "Vïsüäl Répr. Désçrïptïön Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢ση#"
+
+#: problem_builder/dashboard.py
+msgid "The data represented in this image is available in the tables below."
+msgstr ""
+"Thé dätä répréséntéd ïn thïs ïmägé ïs äväïläßlé ïn thé täßlés ßélöw. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя #"
+
+#: problem_builder/dashboard.py
+msgid ""
+"This longer description is not displayed visually but is exposed to screen reader users who may "
+"not see the image."
+msgstr ""
+"Thïs löngér désçrïptïön ïs nöt dïspläýéd vïsüällý ßüt ïs éxpöséd tö sçréén réädér üsérs whö mäý "
+"nöt séé thé ïmägé. Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: problem_builder/dashboard.py
+msgid "Label for average value"
+msgstr "Läßél för ävérägé välüé Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σ#"
+
+#: problem_builder/dashboard.py
+msgid ""
+"This settings allows overriding label for the calculated average per mentoring block. Must be in "
+"JSON format. Examples: {examples_here}."
+msgstr ""
+"Thïs séttïngs ällöws övérrïdïng läßél för thé çälçülätéd ävérägé pér méntörïng ßlöçk. Müst ßé ïn "
+"JSÖN förmät. Éxämplés: {examples_here}. Ⱡ'σяєм ι#"
+
+#: problem_builder/dashboard.py
+msgid "Display values"
+msgstr "Dïspläý välüés Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт#"
+
+#: problem_builder/dashboard.py
+msgid "Toggles if numeric values are displayed"
+msgstr "Tögglés ïf nümérïç välüés äré dïspläýéd Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя#"
+
+#: problem_builder/dashboard.py
+msgid "Header HTML"
+msgstr "Héädér HTML Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: problem_builder/dashboard.py
+msgid "Custom text to include at the beginning of the report."
+msgstr ""
+"Çüstöm téxt tö ïnçlüdé ät thé ßégïnnïng öf thé répört. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/dashboard.py
+msgid "Footer HTML"
+msgstr "Föötér HTML Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: problem_builder/dashboard.py
+msgid "Custom text to include at the end of the report."
+msgstr "Çüstöm téxt tö ïnçlüdé ät thé énd öf thé répört. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/dashboard.py
+msgid "Invalid color rule on line {line_number}"
+msgstr "Ìnvälïd çölör rülé ön lïné {line_number} Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢т#"
+
+#: problem_builder/dashboard.py
+msgid "Not configured."
+msgstr "Nöt çönfïgüréd. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт α#"
+
+#: problem_builder/dashboard.py
+msgid "Score: {score}"
+msgstr "Sçöré: {score} Ⱡ'σяєм ιρѕυм ∂σłσ#"
+
+#: problem_builder/dashboard.py
+msgid "No value yet"
+msgstr "Nö välüé ýét Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: problem_builder/dashboard.py
+msgid "Average"
+msgstr "Àvérägé Ⱡ'σяєм ιρѕυм #"
+
+#: problem_builder/dashboard.py
+msgid "Invalid block url_name given: \"{bad_url_name}\""
+msgstr "Ìnvälïd ßlöçk ürl_nämé gïvén: \"{bad_url_name}\" Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєт#"
+
+#: problem_builder/dashboard.py
+msgid ""
+"'Questions to be hidden' is malformed: value for key {key} is {value}, expected list of integers"
+msgstr ""
+"'Qüéstïöns tö ßé hïddén' ïs mälförméd: välüé för kéý {key} ïs {value}, éxpéçtéd lïst öf ïntégérs "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕ#"
+
+#: problem_builder/dashboard.py
+msgid ""
+"'Questions to be hidden' is malformed: mentoring url_name {url_name} is not added to Dashboard"
+msgstr ""
+"'Qüéstïöns tö ßé hïddén' ïs mälförméd: méntörïng ürl_nämé {url_name} ïs nöt äddéd tö Däshßöärd "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє#"
+
+#: problem_builder/dashboard.py
+msgid "'Label for average value' is malformed: value for key {key} is {value}, expected string"
+msgstr ""
+"'Läßél för ävérägé välüé' ïs mälförméd: välüé för kéý {key} ïs {value}, éxpéçtéd strïng Ⱡ'σяєм "
+"ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тє#"
+
+#: problem_builder/dashboard.py
+msgid ""
+"'Label for average value' is malformed: mentoring url_name {url_name} is not added to Dashboard"
+msgstr ""
+"'Läßél för ävérägé välüé' ïs mälförméd: méntörïng ürl_nämé {url_name} ïs nöt äddéd tö Däshßöärd "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє#"
+
+#: problem_builder/dashboard.py
+msgid "Visual rules contains an error: {error}"
+msgstr "Vïsüäl rülés çöntäïns än érrör: {error} Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєт#"
+
+#: problem_builder/dashboard.py
+msgid "Visual rules should be a JSON dictionary/object: {...}"
+msgstr ""
+"Vïsüäl rülés shöüld ßé ä JSÖN dïçtïönärý/ößjéçt: {...} Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/mcq.py
+msgid "Correct Choice[s]"
+msgstr "Çörréçt Çhöïçé[s] Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмє#"
+
+#: problem_builder/mcq.py
+msgid "Specify the value[s] that students may select for this question to be considered correct."
+msgstr ""
+"Spéçïfý thé välüé[s] thät stüdénts mäý séléçt för thïs qüéstïön tö ßé çönsïdéréd çörréçt. Ⱡ'σяєм "
+"ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕ#"
+
+#. Translators: This is an adjective, describing a choice as correct
+#: problem_builder/mcq.py
+msgid "Correct"
+msgstr "Çörréçt Ⱡ'σяєм ιρѕυм #"
+
+#: problem_builder/mcq.py
+msgid "Acceptable"
+msgstr "Àççéptäßlé Ⱡ'σяєм ιρѕυм ∂σłσ#"
+
+#: problem_builder/mcq.py
+msgid "Wrong"
+msgstr "Wröng Ⱡ'σяєм ιρѕ#"
+
+#: problem_builder/mcq.py problem_builder/mrq.py
+msgid "Not Acceptable"
+msgstr "Nöt Àççéptäßlé Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт#"
+
+#: problem_builder/mcq.py
+msgid "You must indicate the correct answer[s], or the student will always get this question wrong."
+msgstr ""
+"Ýöü müst ïndïçäté thé çörréçt änswér[s], ör thé stüdént wïll älwäýs gét thïs qüéstïön wröng. "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢ση#"
+
+#: problem_builder/mcq.py
+msgid "Duplicate correct choices set"
+msgstr "Düplïçäté çörréçt çhöïçés sét Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: problem_builder/mcq.py
+msgid "A choice value listed as correct does not exist: {choice}"
+msgstr ""
+"À çhöïçé välüé lïstéd äs çörréçt döés nöt éxïst: {choice} Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя "
+"α#"
+
+#: problem_builder/mcq.py
+msgid "Low"
+msgstr "Löw Ⱡ'σяєм#"
+
+#: problem_builder/mcq.py
+msgid "Label for low ratings"
+msgstr "Läßél för löw rätïngs Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: problem_builder/mcq.py
+msgid "Less"
+msgstr "Léss Ⱡ'σяєм ι#"
+
+#: problem_builder/mcq.py
+msgid "High"
+msgstr "Hïgh Ⱡ'σяєм ι#"
+
+#: problem_builder/mcq.py
+msgid "Label for high ratings"
+msgstr "Läßél för hïgh rätïngs Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢#"
+
+#: problem_builder/mcq.py
+msgid "More"
+msgstr "Möré Ⱡ'σяєм ι#"
+
+#: problem_builder/mcq.py
+msgid "Accepted Choice[s]"
+msgstr "Àççéptéd Çhöïçé[s] Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: problem_builder/mcq.py
+msgid ""
+"Specify the rating value[s] that students may select for this question to be considered correct."
+msgstr ""
+"Spéçïfý thé rätïng välüé[s] thät stüdénts mäý séléçt för thïs qüéstïön tö ßé çönsïdéréd çörréçt. "
+"Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: problem_builder/mentoring.py
+msgid "Mode"
+msgstr "Mödé Ⱡ'σяєм ι#"
+
+#: problem_builder/mentoring.py
+msgid "Mode of the mentoring. 'standard' or 'assessment'"
+msgstr ""
+"Mödé öf thé méntörïng. 'ständärd' ör 'ässéssmént' Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/mentoring.py
+msgid "Followed by"
+msgstr "Föllöwéd ßý Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: problem_builder/mentoring.py
+msgid "url_name of the step after the current mentoring block in workflow."
+msgstr ""
+"ürl_nämé öf thé stép äftér thé çürrént méntörïng ßlöçk ïn wörkflöw. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя #"
+
+#: problem_builder/mentoring.py
+msgid "Max. Attempts Allowed"
+msgstr "Mäx. Àttémpts Àllöwéd Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: problem_builder/mentoring.py
+msgid "Number of max attempts allowed for this questions"
+msgstr ""
+"Nümßér öf mäx ättémpts ällöwéd för thïs qüéstïöns Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/mentoring.py
+msgid "Enforce Dependency"
+msgstr "Énförçé Dépéndénçý Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: problem_builder/mentoring.py
+msgid "Should the next step be the current block to complete?"
+msgstr ""
+"Shöüld thé néxt stép ßé thé çürrént ßlöçk tö çömplété? Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/mentoring.py
+msgid "Show Submit Button"
+msgstr "Shöw Süßmït Büttön Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: problem_builder/mentoring.py
+msgid "Allow submission of the current block?"
+msgstr "Àllöw süßmïssïön öf thé çürrént ßlöçk? Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя#"
+
+#: problem_builder/mentoring.py
+msgid "XML content"
+msgstr "XML çöntént Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: problem_builder/mentoring.py
+msgid ""
+"Not used for version 2. This field is here only to preserve the data needed to upgrade from v1 to "
+"v2."
+msgstr ""
+"Nöt üséd för vérsïön 2. Thïs fïéld ïs héré önlý tö présérvé thé dätä néédéd tö üpgrädé fröm v1 tö "
+"v2. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмє#"
+
+#: problem_builder/mentoring.py
+msgid "Defines the maximum total grade of the block."
+msgstr "Défïnés thé mäxïmüm tötäl grädé öf thé ßlöçk. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя #"
+
+#: problem_builder/mentoring.py
+msgid "Title (Display name)"
+msgstr "Tïtlé (Dïspläý nämé) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: problem_builder/mentoring.py
+msgid "Title to display"
+msgstr "Tïtlé tö dïspläý Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αм#"
+
+#: problem_builder/mentoring.py
+msgid "Mentoring Questions"
+msgstr "Méntörïng Qüéstïöns Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт,#"
+
+#: problem_builder/mentoring.py
+msgid "Feedback Header"
+msgstr "Féédßäçk Héädér Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт α#"
+
+#: problem_builder/mentoring.py
+msgid "Header for feedback messages"
+msgstr "Héädér för féédßäçk méssägés Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: problem_builder/mentoring.py
+msgid "Feedback"
+msgstr "Féédßäçk Ⱡ'σяєм ιρѕυм ∂#"
+
+#: problem_builder/mentoring.py
+msgid "Error: Unable to load child component."
+msgstr "Érrör: Ûnäßlé tö löäd çhïld çömpönént. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя#"
+
+#: problem_builder/mentoring.py
+msgid "There should only be one '{msg_type}' message component."
+msgstr ""
+"Théré shöüld önlý ßé öné '{msg_type}' méssägé çömpönént. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя "
+"α#"
+
+#: problem_builder/mentoring.py
+msgid "A component inside this mentoring block has issues."
+msgstr ""
+"À çömpönént ïnsïdé thïs méntörïng ßlöçk häs ïssüés. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/message.py problem_builder/questionnaire.py
+msgid "Message"
+msgstr "Méssägé Ⱡ'σяєм ιρѕυм #"
+
+#: problem_builder/message.py
+msgid "Message to display upon completion"
+msgstr "Méssägé tö dïspläý üpön çömplétïön Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєт#"
+
+#: problem_builder/message.py
+msgid "Type of message"
+msgstr "Týpé öf méssägé Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт α#"
+
+#: problem_builder/message.py
+msgid "Message when student reaches max. # of attempts ({limit})"
+msgstr ""
+"Méssägé whén stüdént réäçhés mäx. # öf ättémpts ({limit}) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя "
+"α#"
+
+#: problem_builder/message.py
+msgid "unlimited"
+msgstr "ünlïmïtéd Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: problem_builder/message.py
+msgid "Message shown when complete"
+msgstr "Méssägé shöwn whén çömplété Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє#"
+
+#: problem_builder/message.py
+msgid "Message shown when incomplete"
+msgstr "Méssägé shöwn whén ïnçömplété Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: problem_builder/mrq.py
+msgid "Required Choices"
+msgstr "Réqüïréd Çhöïçés Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αм#"
+
+#: problem_builder/mrq.py
+msgid "Specify the value[s] that students must select for this MRQ to be considered correct."
+msgstr ""
+"Spéçïfý thé välüé[s] thät stüdénts müst séléçt för thïs MRQ tö ßé çönsïdéréd çörréçt. Ⱡ'σяєм ιρѕυм "
+"∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: problem_builder/mrq.py
+msgid "Ignored Choices"
+msgstr "Ìgnöréd Çhöïçés Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт α#"
+
+#: problem_builder/mrq.py
+msgid ""
+"Specify the value[s] that are neither correct nor incorrect. Any values not listed as required or "
+"ignored will be considered wrong."
+msgstr ""
+"Spéçïfý thé välüé[s] thät äré néïthér çörréçt nör ïnçörréçt. Àný välüés nöt lïstéd äs réqüïréd ör "
+"ïgnöréd wïll ßé çönsïdéréd wröng. Ⱡ#"
+
+#: problem_builder/mrq.py
+msgid "Required"
+msgstr "Réqüïréd Ⱡ'σяєм ιρѕυм ∂#"
+
+#: problem_builder/mrq.py
+msgid "Ignored"
+msgstr "Ìgnöréd Ⱡ'σяєм ιρѕυм #"
+
+#: problem_builder/mrq.py
+msgid "Duplicate required choices set"
+msgstr "Düplïçäté réqüïréd çhöïçés sét Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢т#"
+
+#: problem_builder/mrq.py
+msgid "Duplicate ignored choices set"
+msgstr "Düplïçäté ïgnöréd çhöïçés sét Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: problem_builder/mrq.py
+msgid "A choice is listed as both required and ignored: {}"
+msgstr ""
+"À çhöïçé ïs lïstéd äs ßöth réqüïréd änd ïgnöréd: {} Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/mrq.py
+msgid "A choice value listed as required does not exist: {}"
+msgstr ""
+"À çhöïçé välüé lïstéd äs réqüïréd döés nöt éxïst: {} Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/mrq.py
+msgid "A choice value listed as ignored does not exist: {}"
+msgstr ""
+"À çhöïçé välüé lïstéd äs ïgnöréd döés nöt éxïst: {} Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/questionnaire.py
+msgid "The ID of this question (required). Should be unique within this mentoring component."
+msgstr ""
+"Thé ÌD öf thïs qüéstïön (réqüïréd). Shöüld ßé ünïqüé wïthïn thïs méntörïng çömpönént. Ⱡ'σяєм ιρѕυм "
+"∂σłσя ѕιт αмєт, ¢σηѕє¢#"
+
+#: problem_builder/questionnaire.py
+msgid "General feedback provided when submiting"
+msgstr "Généräl féédßäçk prövïdéd whén süßmïtïng Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя#"
+
+#: problem_builder/questionnaire.py
+msgid "Defines the maximum total grade of this question."
+msgstr ""
+"Défïnés thé mäxïmüm tötäl grädé öf thïs qüéstïön. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/questionnaire.py
+msgid "A unique Question ID is required."
+msgstr "À ünïqüé Qüéstïön ÌD ïs réqüïréd. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тє#"
+
+#: problem_builder/questionnaire.py
+msgid "Question ID should not contain spaces."
+msgstr "Qüéstïön ÌD shöüld nöt çöntäïn späçés. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя#"
+
+#: problem_builder/questionnaire.py
+msgid "Some choice values are not unique."
+msgstr "Sömé çhöïçé välüés äré nöt ünïqüé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєт#"
+
+#: problem_builder/questionnaire.py
+msgid "Multiple tips configured for the same choice."
+msgstr "Mültïplé tïps çönfïgüréd för thé sämé çhöïçé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя #"
+
+#: problem_builder/step.py
+msgid "Question title"
+msgstr "Qüéstïön tïtlé Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт#"
+
+#: problem_builder/step.py
+msgid "Leave blank to use the default (\"Question 1\", \"Question 2\", etc.)"
+msgstr ""
+"Léävé ßlänk tö üsé thé défäült (\"Qüéstïön 1\", \"Qüéstïön 2\", étç.) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя α#"
+
+#: problem_builder/step.py
+msgid "Show title"
+msgstr "Shöw tïtlé Ⱡ'σяєм ιρѕυм ∂σłσ#"
+
+#: problem_builder/step.py
+msgid "Display the title?"
+msgstr "Dïspläý thé tïtlé? Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: problem_builder/step.py
+msgid "Question {number}"
+msgstr "Qüéstïön {number} Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: problem_builder/table.py
+msgid "Display name"
+msgstr "Dïspläý nämé Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: problem_builder/table.py
+msgid "Title of the table"
+msgstr "Tïtlé öf thé täßlé Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: problem_builder/table.py
+msgid "Answers Table"
+msgstr "Ànswérs Täßlé Ⱡ'σяєм ιρѕυм ∂σłσя ѕι#"
+
+#: problem_builder/table.py
+msgid "Special Mode"
+msgstr "Spéçïäl Mödé Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: problem_builder/table.py
+msgid "Variant of the table that will display a specific background image."
+msgstr ""
+"Värïänt öf thé täßlé thät wïll dïspläý ä spéçïfïç ßäçkgröünd ïmägé. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, "
+"¢σηѕє¢тєтυя #"
+
+#: problem_builder/table.py
+msgid "Header"
+msgstr "Héädér Ⱡ'σяєм ιρѕυ#"
+
+#: problem_builder/table.py
+msgid "Header of this column"
+msgstr "Héädér öf thïs çölümn Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: problem_builder/templates/html/answer_read_only.html
+msgid "No answer yet."
+msgstr "Nö änswér ýét. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт#"
+
+#: problem_builder/templates/html/dashboard.html
+msgid "Download report"
+msgstr "Döwnlöäd répört Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт α#"
+
+#: problem_builder/templates/html/dashboard_report.html
+msgid "Student"
+msgstr "Stüdént Ⱡ'σяєм ιρѕυм #"
+
+#: problem_builder/templates/html/dashboard_report.html
+msgid "Course"
+msgstr "Çöürsé Ⱡ'σяєм ιρѕυ#"
+
+#: problem_builder/templates/html/dashboard_report.html
+msgid "Date"
+msgstr "Däté Ⱡ'σяєм ι#"
+
+#: problem_builder/templates/html/mentoring-column-add-button.html
+msgid "Add HTML"
+msgstr "Àdd HTML Ⱡ'σяєм ιρѕυм ∂#"
+
+#: problem_builder/templates/html/mentoring-column-add-button.html
+msgid "Add Answer Recap"
+msgstr "Àdd Ànswér Réçäp Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αм#"
+
+#: problem_builder/templates/html/mentoring-table-add-button.html
+msgid "Add Answer Recap Column"
+msgstr "Àdd Ànswér Réçäp Çölümn Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σ#"
+
+#: problem_builder/templates/html/mentoring.html
+#, python-format
+msgid ""
+"\n"
+"    You need to complete %(link_start)sthe previous step%(link_end)s before\n"
+"    attempting this step.\n"
+"    "
+msgstr ""
+"\n"
+"    Ýöü nééd tö çömplété %(link_start)sthé prévïöüs stép%(link_end)s ßéföré\n"
+"    ättémptïng thïs stép.\n"
+"     Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє#"
+
+#: problem_builder/templates/html/mentoring.html
+msgid "Submit"
+msgstr "Süßmït Ⱡ'σяєм ιρѕυ#"
+
+#: problem_builder/templates/html/mentoring.html
+msgid "Next Question"
+msgstr "Néxt Qüéstïön Ⱡ'σяєм ιρѕυм ∂σłσя ѕι#"
+
+#: problem_builder/templates/html/mentoring.html
+msgid "Review grade"
+msgstr "Révïéw grädé Ⱡ'σяєм ιρѕυм ∂σłσя ѕ#"
+
+#: problem_builder/templates/html/mentoring.html
+msgid "Try again"
+msgstr "Trý ägäïn Ⱡ'σяєм ιρѕυм ∂σł#"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Add New Component"
+msgstr "Àdd Néw Çömpönént Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмє#"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Long Answer"
+msgstr "Löng Ànswér Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Multiple Choice Question"
+msgstr "Mültïplé Çhöïçé Qüéstïön Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢ση#"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Rating Question"
+msgstr "Rätïng Qüéstïön Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт α#"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Multiple Response Question"
+msgstr "Mültïplé Réspönsé Qüéstïön Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕ#"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "HTML"
+msgstr "HTML Ⱡ'σяєм ι#"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Long Answer Recap"
+msgstr "Löng Ànswér Réçäp Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмє#"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Answer Recap Table"
+msgstr "Ànswér Réçäp Täßlé Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Message (Complete)"
+msgstr "Méssägé (Çömplété) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт#"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Message (Incomplete)"
+msgstr "Méssägé (Ìnçömplété) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, #"
+
+#: problem_builder/templates/html/mentoring_add_buttons.html
+msgid "Message (Max # Attempts)"
+msgstr "Méssägé (Mäx # Àttémpts) Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢ση#"
+
+#: problem_builder/templates/html/mentoring_url_name.html
+msgid "url_name for linking to this mentoring question set:"
+msgstr ""
+"ürl_nämé för lïnkïng tö thïs méntörïng qüéstïön sét: Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"
+
+#: problem_builder/templates/html/questionnaire_add_buttons.html
+msgid "Add Custom Choice"
+msgstr "Àdd Çüstöm Çhöïçé Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмє#"
+
+#: problem_builder/templates/html/questionnaire_add_buttons.html
+msgid "Add Tip"
+msgstr "Àdd Tïp Ⱡ'σяєм ιρѕυм #"
+
+#: problem_builder/templates/html/ratingblock_edit_preview.html
+msgid "Built-in choices:"
+msgstr "Büïlt-ïn çhöïçés: Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмє#"
+
+#: problem_builder/templates/html/ratingblock_edit_preview.html
+msgid "Additional custom choices and tips:"
+msgstr "Àddïtïönäl çüstöm çhöïçés änd tïps: Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєт#"
+
+#: problem_builder/tip.py
+msgid "Content"
+msgstr "Çöntént Ⱡ'σяєм ιρѕυм #"
+
+#: problem_builder/tip.py
+msgid "Text of the tip to show if the student chooses this tip's associated choice[s]"
+msgstr ""
+"Téxt öf thé tïp tö shöw ïf thé stüdént çhöösés thïs tïp's ässöçïätéd çhöïçé[s] Ⱡ'σяєм ιρѕυм ∂σłσя "
+"ѕιт αмєт, ¢σηѕє¢тєт#"
+
+#: problem_builder/tip.py
+msgid "For Choices"
+msgstr "För Çhöïçés Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: problem_builder/tip.py
+msgid "List of choices for which to display this tip"
+msgstr "Lïst öf çhöïçés för whïçh tö dïspläý thïs tïp Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя #"
+
+#: problem_builder/tip.py
+msgid "Width"
+msgstr "Wïdth Ⱡ'σяєм ιρѕ#"
+
+#: problem_builder/tip.py
+msgid "Width of the tip popup (e.g. '400px')"
+msgstr "Wïdth öf thé tïp pöpüp (é.g. '400px') Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυ#"
+
+#: problem_builder/tip.py
+msgid "Height"
+msgstr "Héïght Ⱡ'σяєм ιρѕυ#"
+
+#: problem_builder/tip.py
+msgid "Height of the tip popup (e.g. '200px')"
+msgstr "Héïght öf thé tïp pöpüp (é.g. '200px') Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя#"
+
+#: problem_builder/tip.py
+msgid "Tip for {list_of_choices}"
+msgstr "Tïp för {list_of_choices} Ⱡ'σяєм ιρѕυм ∂σłσя #"
+
+#: problem_builder/tip.py
+msgid "A choice selected for this tip does not exist."
+msgstr "À çhöïçé séléçtéd för thïs tïp döés nöt éxïst. Ⱡ'σяєм ιρѕυм ∂σłσя ѕιт αмєт, ¢σηѕє¢тєтυя α#"

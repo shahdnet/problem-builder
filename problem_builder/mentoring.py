@@ -269,8 +269,8 @@ class MentoringBlock(XBlock, StepParentMixin, StudioEditableXBlockMixin, StudioC
         js_file = 'public/js/mentoring_{}_view.js'.format('assessment' if self.is_assessment else 'standard')
         fragment.add_javascript_url(self.runtime.local_resource_url(self, js_file))
         fragment.add_javascript_url(self.runtime.local_resource_url(self, 'public/js/mentoring.js'))
-        fragment.add_resource(loader.load_unicode('templates/html/mentoring_attempts.html'), "text/html")
-        fragment.add_resource(loader.load_unicode('templates/html/mentoring_grade.html'), "text/html")
+        fragment.add_resource(loader.load_unicode('templates/html/mentoring_attempts.underscore'), "text/html")
+        fragment.add_resource(loader.load_unicode('templates/html/mentoring_grade.underscore'), "text/html")
 
         self.include_theme_files(fragment)
         # Workbench doesn't have font awesome, so add it:
